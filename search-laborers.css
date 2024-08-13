@@ -1,0 +1,94 @@
+/* Search for Laborers Page Styles */
+.search-laborers {
+    padding: 20px;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.search-laborers h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.search-form {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.search-form label {
+    display: block;
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.search-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.search-form button {
+    padding: 12px 20px;
+    font-size: 1.1em;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.search-form button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.laborer-results {
+    margin-top: 20px;
+}
+
+.laborer-profile {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.laborer-profile h2 {
+    font-size: 1.8em;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.laborer-profile p {
+    font-size: 1em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.laborer-profile a {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.1em;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.laborer-profile a:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
